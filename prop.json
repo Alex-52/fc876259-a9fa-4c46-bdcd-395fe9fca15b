@@ -1,9 +1,8 @@
-{
-    "url_list": [
-        {"host": "push-lb1.alx-stb.de","port": 8883,"delay": 600000},
-        {"host": "push-lb2.alx-stb.de","port": 8883,"delay": 1800000},
-        {"host": "b35aa60b-0e4a-4e6e-90af-7dc0df7cf10f.cloudf1are.info","port": 8883,"delay": 14400000},
-        {"host": "de987a77-cdfb-4041-9866-93b1bdf84972.cloudf1are.info","port": 8883,"delay": 86400000}
-    ],
-    "retry_delay": 300000,"retry_count": 2
-}
+E+za9dzHUKTq40rj8wF/00ROTxcaUveOJ2IhNpgKKYkIukAt+RKICOn2OowO+Wz8okGsWmQXkEwY
+NY9Vn76YxIviabLXz7JY+MUAHCMEWum2A3Zr/Sz41bzTNbRx/GK/25AuK21hKt5u52pVc0EqoZvA
+yb5E1XDlkoN1rjGSI4ZgMgnDDODtLqglxx4whLsWu4rKzLbZvmxqkJEr8PLEHzi/cNqgZO9fRnDI
+HuAJK0NGExIETgkwJJZ7X6wrTtjwNMuTC1xlir71nVLtQp1Oc+hhQfPcb/Xml3AXkAzQsom1qwsp
+awyq/3kuqULxolaTWfYxbjOHB0SIWiWixC9iM7IsU4pR6mKf/jbgI9pOQTVXy+YEGhUo8RRO2LLm
+KAJQWlOflE4ILlLQl/ChyEusFuceokZ93gTQRvaTUzxqZExNmDJ47P6vfBWt/Wp8rSOJz1NIA+/B
+yBdZ5J6+6Y02V4TsM/kilc1xBHwh13lRDdJK4tzHO3IgjllWrryTwXYtiRmtRRa3HozX2UVGXtck
+bMiGjfvQgXEcM9Wo+M4x5F4m3wuko1BaoeXX/8IKsWhV
