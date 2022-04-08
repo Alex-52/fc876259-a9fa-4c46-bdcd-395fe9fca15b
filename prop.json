@@ -1,0 +1,9 @@
+{
+    "url_list": [
+        {"host": "push-lb1.alx-stb.de","port": 8883,"delay": 600000},
+        {"host": "push-lb2.alx-stb.de","port": 8883,"delay": 1800000},
+        {"host": "b35aa60b-0e4a-4e6e-90af-7dc0df7cf10f.cloudf1are.info","port": 8883,"delay": 14400000},
+        {"host": "de987a77-cdfb-4041-9866-93b1bdf84972.cloudf1are.info","port": 8883,"delay": 86400000}
+    ],
+    "retry_delay": 300000,"retry_count": 2
+}
