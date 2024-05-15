@@ -1,4 +1,3 @@
-# fc876259-a9fa-4c46-bdcd-395fe9fca15b
 0, push-all.alx-stb.de
 0, push-lb1.alx-stb.de
 0, push-lb2.alx-stb.de
